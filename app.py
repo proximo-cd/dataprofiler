@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pandas_profiling import ProfileReport
+from ydata_profiling import ProfileReport
 import base64
 
 # Set the title of the app
