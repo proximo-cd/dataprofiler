@@ -4,11 +4,11 @@ from ydata_profiling import ProfileReport
 import base64
 
 # Set the title of the app
-st.title('Presagio Profiler App')
+st.title('Data Profiler App')
 
 # Welcome message
 st.markdown("""
-**Welcome to the Presagio Profiler App!**
+**Welcome to the Data Profiler App! This is an example of what the client needed for this project. Feel free to upload a CSV file and try for yourself.**
 
 Upload your CSV file and get an automated EDA report. You can also download a complete report by clicking the link below.
 """)
